@@ -1,6 +1,8 @@
 /*
 1. Create a function named `sayHello` that alerts a message `Hello World!`.
 */
+function sayHello;
+
 
 /*
 2. Create a function named `fullName` with the following steps:
