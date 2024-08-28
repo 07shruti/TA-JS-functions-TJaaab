@@ -1,6 +1,9 @@
 /*
 1. Create a function named `sayHello` that that accepts a parameter `name` and alert `Hello [name]!`.
-*/
+*/  
+function (sayHello) {
+  alert("name")
+}
 
 /*
 2. Create a function named `getFullName` that accepts two parameter `firstName` and `lastName` and returns
