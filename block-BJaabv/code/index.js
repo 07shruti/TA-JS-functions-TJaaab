@@ -9,7 +9,7 @@
 */
 
 function calculateDogAge() {
-  // Your code goes here
+  let puppyAge = a;
 }
 
 /*
